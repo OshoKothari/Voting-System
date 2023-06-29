@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 #define CANDIDATE_COUNT 4
-#define CANDIDATE1 "David Hull"
-#define CANDIDATE2 "Kristin Canella"
-#define CANDIDATE3 "Jim Brar"
+#define CANDIDATE1 "Narendra Modi"
+#define CANDIDATE2 "Putin"
+#define CANDIDATE3 "Joe Biden"
 #define CANDIDATE4 "Donald Trumph"
 
 int votesCount1 = 0, votesCount2 = 0, votesCount3 = 0, votesCount4 = 0, spoiledVotes = 0;
